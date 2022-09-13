@@ -1,0 +1,15 @@
+
+.oracle{
+    color: red;    
+}
+.oracle:hover{
+    transition: 1s;
+    color: black;
+}
+h5{
+    color: red;
+}
+body{
+    width: 100%;
+    height: 100%;
+}
